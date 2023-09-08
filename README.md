@@ -18,7 +18,7 @@
 
 <td colspan=4><h4>Communication address:<br>
 KG College Of Arts and Science<h4><br>
-<img src=https://www.kgkite.ac.in/wp-content/uploads/2021/04/about-us-vid.jpg" height="30%" width="30%"></td> </tr>
+<img src=https://www.kgkite.ac.in/wp-content/uploads/2021/04/about-us-vid.jpg" height="50%" width="50%"></td> </tr>
 <img src=""
 </table>
 </body>
